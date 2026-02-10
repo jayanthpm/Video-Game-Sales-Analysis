@@ -3,8 +3,8 @@ This project analyzes global video game sales data to uncover trends in game per
 
 🎯 Objectives
 -
-Analyze global and regional video game sales
-Identify top-performing games, genres, platforms, and publishers
+-Analyze global and regional video game sales
+- Identify top-performing games, genres, platforms, and publishers
 Understand sales trends over time
 Present insights through an interactive Power BI dashboard
 
